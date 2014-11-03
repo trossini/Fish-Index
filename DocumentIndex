@@ -1,0 +1,4 @@
+/* this will be the document index
+*/
+
+public class DocumentIndex extends ArrayList<IndexEntry>
